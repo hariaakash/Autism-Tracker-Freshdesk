@@ -1,0 +1,22 @@
+{
+  "name": "autismtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "hat": "0.0.3",
+    "mongoose": "^4.9.7",
+    "morgan": "^1.8.1",
+    "request": "^2.81.0"
+  }
+}
